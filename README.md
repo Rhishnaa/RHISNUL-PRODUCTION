@@ -1,3 +1,13 @@
 # RHISHNA [My Personal Website ](https://ahmed-roshdy-1.github.io/Ahmed-Roshdy/)
 ## My Personal Website 
- [https://ibb.co/RYhDLm3)
+<p align="center">
+<a href="#"><img title="RHISHNA" src="https://img.shields.io/badge/RHISHNA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/naisayuriza"><img title="Author" src="https://img.shields.io/badge/AUTHOR-RHISHNA-orange.svg?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+</p>
+<img alt="GIF" src="https://media.giphy.com/media/FbN2hnZhwTWGmN2cRl/giphy.gif" width="980" />
+<div align="center">
+<details>
